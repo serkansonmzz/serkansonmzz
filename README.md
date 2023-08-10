@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**serkansonmzz/serkansonmzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hello, I'm Serkan Sönmez  👋
 
 I'm a Frontend Developer specialized in HTML, JavaScript, and CSS, with advanced proficiency in backend languages like C#. I have mastery over the .NET Core platform and am well-versed in using Onion or Clean Architecture.
@@ -33,6 +28,3 @@ Contributions I've made to open-source projects, collaborations, etc.
 
 ---
 ❤️ Thank you for visiting my profile!
-
-
--->
