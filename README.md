@@ -9,7 +9,7 @@
 <br>
 
 
-- 🔭 I’m currently working on [SPECIALS DIGITAL INDUSTRY ADVERTİSİNG] 
+- 🔭 I’m currently working on [Special Digital Advertising & Industry] 
 ## Project Technologies💻
 - 🌱 **Front-end:** HTML, CSS, JavaScript, React, Angular
 - 💬 **Back-end:** C#, Python, Node.js, Express, Django
