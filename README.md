@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on [Special Digital Advertising & Industry] 
-- 🔭 I’m currently working on [Neilsen Media Industry] 
+- 🔭 I’m currently part-time working on [Neilsen Media Industry] 
 ## Project Technologies💻
 - 🌱 **Front-end:** HTML, CSS, JavaScript, React, Angular
 - 💬 **Back-end:** C#, Python, Node.js, Express, Django
