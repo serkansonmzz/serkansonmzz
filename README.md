@@ -13,8 +13,8 @@
 ## Project Technologies💻
 - 🌱 **Front-end:** HTML, CSS, JavaScript, React, Angular
 - 💬 **Back-end:** C#, Python, Node.js, Express, Django
-- 💻 **Veritabanı:** MongoDB, MySQL, MsSql, PostgreSQL
-- 🔭 **Diğer Araçlar:** Git, Docker, Kubernetes
+- 💻 **Databases:** MongoDB, MySQL, MsSql, PostgreSQL
+- 🔭 **Other Tools:** Git, Docker, Kubernetes
 
 - 💬 Ask me about: **C#, Python, Node.js, Html, Css, TailwindCss, Javascript, React, Angular**
 
