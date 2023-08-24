@@ -1,5 +1,5 @@
 <p align="center">
-  <b>I'M SERKAN SÖNMEZ</b>
+  <h1>I'M SERKAN SÖNMEZ</h1>
 </p>
 
 <h3 align="center">I work in the industry as a FullStack Software Developer. In the world of software, I am always focused on learning, growing, and making life easier with my projects.</h3>
