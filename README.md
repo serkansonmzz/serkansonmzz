@@ -5,7 +5,6 @@
 <h3 align="center">I work in the industry as a FullStack Software Developer. In the world of software, I am always focused on learning, growing, and making life easier with my projects.</h3>
 <img align="right" alt="Coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br>
-<br>
 
 
 
